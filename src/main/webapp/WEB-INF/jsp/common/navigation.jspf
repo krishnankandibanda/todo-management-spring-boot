@@ -11,5 +11,17 @@
 		<ul class="nav navbar-nav">
 			<li><a href="/logout">Logout</a></li>
 		</ul>
+		<ul class="nav navbar-nav">
+			<li class="active"><a href="/">Home-One</a></li>
+			<li><a href="/list-todos">Todo-One</a></li>
+		</ul>
+		<ul class="nav navbar-nav">
+			<li class="active"><a href="/">Home-Two</a></li>
+			<li><a href="/list-todos">Todo-Two</a></li>
+		</ul>
+		<div>
+		<a type="button" class="btn btn-primary btn-md" href="/add-todo">Add Main Todo</a>
+		</div>
 	</div>
+	
 </nav>

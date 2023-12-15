@@ -8,5 +8,6 @@ public class TodoManagementSpringBoot2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TodoManagementSpringBoot2Application.class, args);
+		System.out.println("--WelCome to TodoManagement--");
 	}
 }
